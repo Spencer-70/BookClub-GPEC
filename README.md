@@ -4,3 +4,5 @@
 - Design database schema
 - Market chapters as read
 'SCRUM-6 code'
+
+'SCRUM-7 code'
