@@ -10,3 +10,5 @@
 'SCRUM-7 code'
 
 'SCRUM-8 code'
+
+Chsnges for SCRUM-7 Post comments in discussion threads
